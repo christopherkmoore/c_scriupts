@@ -26,4 +26,6 @@ int main(void)
         printf("%i\n", list_pointer->value);
         list_pointer = list_pointer->next;
     }
+    return 0;
+    
 }
